@@ -1,0 +1,21 @@
+{
+  "name": "automation_proj_try1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-and-time": "^1.0.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "firebase": "^8.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mqtt": "^4.2.6"
+  }
+}
